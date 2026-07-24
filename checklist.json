@@ -1,0 +1,33 @@
+{
+  "sections": [
+    {
+      "id": "SEC-001",
+      "name": "Product Understanding",
+      "items": [
+        "Core flows identified",
+        "Revenue model identified",
+        "Competitors analyzed",
+        "Trends analyzed"
+      ]
+    },
+    {
+      "id": "SEC-002",
+      "name": "User Research",
+      "items": [
+        "Interviews completed",
+        "Survey completed",
+        "Insights documented",
+        "Evidence recorded"
+      ]
+    },
+    {
+      "id": "SEC-003",
+      "name": "Problem Discovery",
+      "items": [
+        "Problems identified",
+        "Root causes identified",
+        "P0 selected"
+      ]
+    }
+  ]
+}
