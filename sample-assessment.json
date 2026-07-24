@@ -1,0 +1,21 @@
+{
+  "assessmentId": "A001",
+  "reviewer": "Eugine",
+  "project": "Spotify Discovery Assignment",
+  "date": "2026-07-24",
+  "scores": {
+    "Product Understanding": 4,
+    "Business Acumen": 3,
+    "Competitive Analysis": 4,
+    "User Research": 5,
+    "User Segmentation": 4,
+    "Problem Discovery": 5,
+    "Prioritization": 4,
+    "Solution Design": 3,
+    "Metrics & Analytics": 2,
+    "PRD & Communication": 4
+  },
+  "overallScore": 3.8,
+  "maturityLevel": "Senior PM",
+  "decision": "GO WITH CONDITIONS"
+}
