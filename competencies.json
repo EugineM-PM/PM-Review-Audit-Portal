@@ -1,0 +1,64 @@
+{
+  "competencies": [
+    {
+      "id": "COMP-001",
+      "name": "Product Understanding",
+      "maxScore": 5,
+      "weight": 1.2
+    },
+    {
+      "id": "COMP-002",
+      "name": "Business Acumen",
+      "maxScore": 5,
+      "weight": 1.0
+    },
+    {
+      "id": "COMP-003",
+      "name": "Competitive Analysis",
+      "maxScore": 5,
+      "weight": 0.8
+    },
+    {
+      "id": "COMP-004",
+      "name": "User Research",
+      "maxScore": 5,
+      "weight": 1.5
+    },
+    {
+      "id": "COMP-005",
+      "name": "User Segmentation",
+      "maxScore": 5,
+      "weight": 1.0
+    },
+    {
+      "id": "COMP-006",
+      "name": "Problem Discovery",
+      "maxScore": 5,
+      "weight": 1.5
+    },
+    {
+      "id": "COMP-007",
+      "name": "Prioritization",
+      "maxScore": 5,
+      "weight": 1.2
+    },
+    {
+      "id": "COMP-008",
+      "name": "Solution Design",
+      "maxScore": 5,
+      "weight": 1.0
+    },
+    {
+      "id": "COMP-009",
+      "name": "Metrics & Analytics",
+      "maxScore": 5,
+      "weight": 1.4
+    },
+    {
+      "id": "COMP-010",
+      "name": "PRD & Communication",
+      "maxScore": 5,
+      "weight": 1.0
+    }
+  ]
+}
