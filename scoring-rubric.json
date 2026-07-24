@@ -1,0 +1,28 @@
+{
+  "scoreLevels": [
+    {
+      "score": 0,
+      "title": "Missing",
+      "color": "#ff4d4f",
+      "description": "Requirement not present"
+    },
+    {
+      "score": 1,
+      "title": "Partial",
+      "color": "#fa8c16",
+      "description": "Partially completed"
+    },
+    {
+      "score": 2,
+      "title": "Complete",
+      "color": "#fadb14",
+      "description": "Requirement completed"
+    },
+    {
+      "score": 3,
+      "title": "Evidence Backed",
+      "color": "#52c41a",
+      "description": "Completed and validated"
+    }
+  ]
+}
