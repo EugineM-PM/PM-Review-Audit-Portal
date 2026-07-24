@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "id": "BR-001",
+      "rule": "No solutioning before problem validation"
+    },
+    {
+      "id": "BR-002",
+      "rule": "Only one P0 problem allowed"
+    },
+    {
+      "id": "BR-003",
+      "rule": "Problems must be evidence-backed"
+    },
+    {
+      "id": "BR-004",
+      "rule": "Interviews must focus on past behaviour"
+    },
+    {
+      "id": "BR-005",
+      "rule": "Metrics must be measurable"
+    },
+    {
+      "id": "BR-006",
+      "rule": "Every solution must map to root cause"
+    }
+  ]
+}
